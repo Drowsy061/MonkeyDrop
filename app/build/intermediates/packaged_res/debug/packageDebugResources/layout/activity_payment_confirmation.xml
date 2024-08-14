@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="6dp"
+    app:cardUseCompatPadding="true"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Mensaje de Confirmación -->
+        <TextView
+            android:id="@+id/confirmation_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Payment Confirmation"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:textAlignment="center"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Detalles del Pedido -->
+        <TextView
+            android:id="@+id/order_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Detalles del Repartidor -->
+        <TextView
+            android:id="@+id/delivery_person_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="16dp"
+            android:text="Delivery Person: [Name]\nPhone: [Phone]" />
+
+        <!-- Ubicación del Pedido -->
+        <TextView
+            android:id="@+id/location_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="24dp"
+            android:text="Su pedido está en: Retrieving..." />
+
+        <!-- Botón para Volver al Menú -->
+        <Button
+            android:id="@+id/return_to_menu_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return to Menu"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/holo_blue_light"
+            android:layout_gravity="center"
+            android:padding="12dp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

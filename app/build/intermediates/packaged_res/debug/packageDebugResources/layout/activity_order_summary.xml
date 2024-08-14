@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Título de la sección -->
+        <TextView
+            android:id="@+id/order_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pedido"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Resumen del pedido -->
+        <TextView
+            android:id="@+id/order_summary_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Campo para el número de tarjeta -->
+        <EditText
+            android:id="@+id/card_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Card Number"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Campo para la fecha de expiración -->
+        <EditText
+            android:id="@+id/expiry_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Expiry Date (MM/YY)"
+            android:inputType="text"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Campo para el CVV -->
+        <EditText
+            android:id="@+id/cvv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="CVV"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Contenedor centrado para los botones -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <!-- Botón para pagar -->
+            <Button
+                android:id="@+id/pay_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pay"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="@android:color/holo_blue_light"
+                android:textColor="@android:color/white"/>
+
+            <!-- Botón para volver al menú -->
+            <Button
+                android:id="@+id/go_back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Go Back"
+                android:backgroundTint="@android:color/holo_red_light"
+                android:textColor="@android:color/white"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

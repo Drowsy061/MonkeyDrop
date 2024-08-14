@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Título "Restaurantes" -->
+    <TextView
+        android:id="@+id/restaurants_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Restaurantes"
+        android:textSize="24sp"
+        android:textStyle="bold"
+
+        android:textColor="@android:color/black"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="16dp"
+        android:layout_centerHorizontal="true" />
+
+    <!-- RecyclerView para la lista de restaurantes -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_restaurants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/restaurants_title"
+        android:paddingBottom="16dp" />
+
+</RelativeLayout>

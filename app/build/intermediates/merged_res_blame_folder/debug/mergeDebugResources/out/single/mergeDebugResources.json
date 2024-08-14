@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-anydpi-v26/ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xxxhdpi_ic_logo.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xxxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-hdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-hdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\font_bungee_outline.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\font\\bungee_outline.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-mdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-mdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-mdpi_ic_logo_round.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-mdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-mdpi_ic_logo.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-mdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xxxhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xxxhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-hdpi_ic_logo.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-hdpi/ic_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_order_summary.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_order_summary.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xxhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xhdpi_ic_logo_foreground.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xhdpi/ic_logo_foreground.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-anydpi-v26/ic_logo_round.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xxhdpi_ic_logo.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_item_restaurant.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\item_restaurant.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_payment_confirmation.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_payment_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_restaurant.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_restaurant.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_menu_item.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xxxhdpi_ic_logo_round.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xxxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/drawable_ic_logo_background.xml.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/drawable/ic_logo_background.xml"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-xhdpi_ic_logo.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-xhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.example.deliveryapp2.app-debug-33:/mipmap-hdpi_ic_logo_round.webp.flat",
+        "source": "com.example.deliveryapp2.app-main-35:/mipmap-hdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-debug-33:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\axels\\.gradle\\daemon\\8.6\\com.example.deliveryapp2.app-main-35:\\layout\\activity_register.xml"
+    }
+]

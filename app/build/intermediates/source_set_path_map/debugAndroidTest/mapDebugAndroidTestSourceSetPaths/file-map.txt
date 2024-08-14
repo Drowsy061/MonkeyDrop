@@ -1,0 +1,5 @@
+com.example.deliveryapp2.test.app-core-1.6.1-0 C:\Users\axels\.gradle\caches\transforms-4\03e656a7f5cd2471a5bad8d671576c34\transformed\core-1.6.1\res
+com.example.deliveryapp2.test.app-androidTest-1 C:\Users\axels\AndroidStudioProjects\DeliveryApp2\app\build\generated\res\resValues\androidTest\debug
+com.example.deliveryapp2.test.app-mergeDebugAndroidTestResources-2 C:\Users\axels\AndroidStudioProjects\DeliveryApp2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.deliveryapp2.test.app-mergeDebugAndroidTestResources-3 C:\Users\axels\AndroidStudioProjects\DeliveryApp2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.deliveryapp2.test.app-debugAndroidTest-4 C:\Users\axels\AndroidStudioProjects\DeliveryApp2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
